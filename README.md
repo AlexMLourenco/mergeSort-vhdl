@@ -1,2 +1,1 @@
-# mergeSort-vhdl
-FPGA project that implements the merge sort algorithm. 
+Top level entity is the MergeSort.bdf 
